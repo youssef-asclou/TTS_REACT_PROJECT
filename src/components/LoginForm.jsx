@@ -13,6 +13,7 @@ const LoginForm = (props) => {
             {/* <TfiClose className='w-10 h-5 hover:bg-black hover:text-gray-300 duration-500 rounded-full'/> */}
             </button>
             
+            
 
             
             <div className='bg-indigo-600 bg-[url("src/assets/istockphoto-500703366-1024x1024.jpg")] bg-[20%_center] bg-cover  bg-blend-multiply bg-opacity-100 md:col-span-1 p-4 flex flex-col justify-end shadow-2xl text-3xl text-[#AFA4CE] font-medium' >
