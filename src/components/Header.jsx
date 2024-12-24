@@ -1,4 +1,5 @@
-import { useState } from 'react'
+import { useState } from 'react';
+import { GoogleOAuthProvider } from '@react-oauth/google';
 import { Dialog, DialogPanel } from '@headlessui/react'
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 import { Button } from './ui/button'
